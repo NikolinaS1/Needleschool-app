@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "890531972525",
+    "project_id": "needleschool-7b865",
+    "storage_bucket": "needleschool-7b865.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:890531972525:android:787ec2685616f8653e4d24",
+        "android_client_info": {
+          "package_name": "com.example.sewinglessons"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "890531972525-6pa4fumusvltqghuipqtcaa8r02tr260.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBtBEiU-eE_hq-EUD-SixzFnyNhsm_4_Vw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "890531972525-6pa4fumusvltqghuipqtcaa8r02tr260.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
